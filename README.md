@@ -125,3 +125,4 @@ both licenses require you to maintain existing copyright notices.
 Additionally see my note above in the *Apps* section regarding
 attribution requirements when taking knowledge or excerpts from
 apps covered by the GPLv3.
+LICENSE
